@@ -8,7 +8,7 @@ Currently working on full-stack applications with Next.js, Supabase, Shadcn/UI a
 
 ## 🚀 Portfolio
 
-[Next.js Handbook](https://github.com/ggabrao/nextjs-handbook): project to assist beginners in Next.js with personal knowledge and insights into key concepts of the framework. <br><br>
+[Next.js Handbook](https://github.com/ggabrao/nextjs-handbook): project to assist beginners in Next.js with summarized notes and insights into key concepts of the framework. <br><br>
 [Career Tracker](https://github.com/ggabrao/career-tracker-v0): Next.js app built entirely with an AI pair programmer tool, under my guidance. All within the Vercel ecosystem. <br><br>
 [Final Paper](https://github.com/ggabrao/final-paper): demonstration of the key concepts of the Angular framework, through practical examples and explanations.
 <br><br>
