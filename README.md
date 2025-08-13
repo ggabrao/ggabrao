@@ -25,7 +25,6 @@ Currently working on full-stack applications with Next.js, Supabase, Shadcn/UI a
 
 ## 🤝 Let's connect
 
-[![Website](https://img.shields.io/badge/Website-red?style=flat-square)](https://ggabrao.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/ggabrao)
+[![Website](https://img.shields.io/badge/Website-red)](https://ggabrao.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/ggabrao)
 [![Email](https://img.shields.io/badge/Email-grey)](mailto:gguimaraesabrao@gmail.com)
-[![Brazil](https://img.shields.io/badge/Brazil-yellow?style=flat-square&logo=flag)](#) <br><br>
