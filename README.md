@@ -1,6 +1,6 @@
 # Gabriel Abrão
 
-Front-end developer from Brazil. 🇧🇷
+Front-end developer from Brazil. 
 
 Former Civil Engineer. 👷‍♂️
 
